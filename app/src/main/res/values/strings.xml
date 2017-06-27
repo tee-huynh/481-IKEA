@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Ikea</string>
+    <string name="add_button_text">Add</string>
+    <string name="item_editText_hint">Write a new item</string>
+    <string name="title_activity_scanning">scanning</string>
+    <string name="scan">Scan</string>
+</resources>
